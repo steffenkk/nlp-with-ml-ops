@@ -1,3 +1,5 @@
 sagemaker 
 boto3 
 sklearn
+transformers
+torch

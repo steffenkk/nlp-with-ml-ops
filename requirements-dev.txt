@@ -1,1 +1,4 @@
-flake8 black pytest
+-r requirements.txt
+flake8
+black
+pytest
